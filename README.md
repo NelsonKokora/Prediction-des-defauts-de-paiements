@@ -21,7 +21,6 @@ Jupyter Notebook
 
 ## Fichiers clés
 - `credit_card_default.ipynb` : Notebook Jupyter contenant l’analyse complète
-- `rapport.pdf` : Rapport détaillé
 - `graphes/` : Graphiques des performances du modèle
 
 ## Auteurs
