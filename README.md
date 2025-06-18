@@ -11,7 +11,7 @@
 - Matrice de confusion, ROC, AUC
 
 ## Résultats
-- Modèle final avec AUC = XX (à compléter)
+- Modèle final avec AUC = 0,72 
 - Variables significatives : nombre de mois de retard, niveau d’éducation, statut marital
 - Proposition d’un scoring client pour prédiction du risque
 
